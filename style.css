@@ -1,0 +1,32 @@
+#videoElement,
+#container,
+#videoCanvas {
+    width: 600px;
+    height: 440px;
+}
+
+#container {
+    margin: 0px auto;
+    border: 8px rgb(63, 63, 63) solid;
+}
+
+#videoElement {
+    display: none;
+}
+
+p,
+span {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+span {
+    color: rgb(85, 0, 221);
+    text-transform: capitalize;
+}
+
+p {
+    text-align: center;
+    color: #000;
+}
